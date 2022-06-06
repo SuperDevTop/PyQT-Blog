@@ -1,0 +1,11 @@
+
+I need dynamic algorithm to be used to find the k central nodes of the network.
+My work is an extension to 'Computing top-k Closeness Centrality Faster
+in Unweighted Graphs' this research paper by ELISABETTA BERGAMINI
+So from the input graph containing many nodes, the code should display set of nodes most central to the whole network.
+Also it should dynamically change with the network
+Also the output should display the routing table of the selected k central nodes
+My guide wants the implementation of the paper but it will be applicable only on small networks
+So he wants dynamic algorithm to be implemented in it so that it can work on large networks with good efficiency
+
+Please tell me if it is doable for you?
